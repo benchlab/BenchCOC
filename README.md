@@ -65,3 +65,4 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+*Adapted from the Node.js Policy on Trolling, the Contributor Covenant v1.3.0 and the Rust Code of Conduct.
